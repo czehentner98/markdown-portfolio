@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* iTU
+  * Communications Director
+* Beta Alpha Psi
+  * Reporting Secretary
+* Alpha Phi Omega
+  * President
+  
